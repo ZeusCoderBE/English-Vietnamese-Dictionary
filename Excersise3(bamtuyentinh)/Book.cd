@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Excersise3.playSound">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAwgAAAAAAAAAAIAAAACAAAAA=</HashCode>
+      <FileName>playSound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.DictNode">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DictNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.Programs" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.Word">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAACQBAAAEAQAgAgAAIAI=</HashCode>
+      <FileName>Word.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.Start" Collapsed="true">
+    <Position X="1.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAJEAAABDAQAAAABADgAAACAAAAAIAgAAAAAAAAAAA=</HashCode>
+      <FileName>Start.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.User" Collapsed="true">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAAAAACACAAAAAgCiAEACAAgACIEAAABAEAJsAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.Admin" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAARAgQAACEGArAIIqjjAJADIAggCAAACACAFSJsAAI=</HashCode>
+      <FileName>Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.AddVocabulary">
+    <Position X="9" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAABAACABAAACAAAAAAAAIACAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>AddVocabulary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.HashTable&lt;t&gt;">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAAAAAAAAAAAgQEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HashTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Excersise3.Login" Collapsed="true">
+    <Position X="8.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYAAKAIQBAEAACAAAACCIAAAQAAEADAQgAQAAA=</HashCode>
+      <FileName>Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

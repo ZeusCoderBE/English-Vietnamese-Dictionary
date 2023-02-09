@@ -1,0 +1,117 @@
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\bin\Debug\Excersise3.exe.config
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\bin\Debug\Excersise3.exe
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\bin\Debug\Excersise3.pdb
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\obj\Debug\Excersise3.exe
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\obj\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3\Excersise3\bin\Debug\Excersise3.exe.config
+C:\Users\dtptr\Downloads\Exercise3\Excersise3\bin\Debug\Excersise3.exe
+C:\Users\dtptr\Downloads\Exercise3\Excersise3\bin\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+C:\Users\dtptr\Downloads\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtptr\Downloads\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+C:\Users\dtptr\Downloads\Exercise3\Excersise3\obj\Debug\Excersise3.exe
+C:\Users\dtptr\Downloads\Exercise3\Excersise3\obj\Debug\Excersise3.pdb
+D:\Exercise3 (1)\Excersise3\bin\Debug\Excersise3.exe.config
+D:\Exercise3 (1)\Excersise3\bin\Debug\Excersise3.exe
+D:\Exercise3 (1)\Excersise3\bin\Debug\Excersise3.pdb
+D:\Exercise3 (1)\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+D:\Exercise3 (1)\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+D:\Exercise3 (1)\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+D:\Exercise3 (1)\Excersise3\obj\Debug\Excersise3.exe
+D:\Exercise3 (1)\Excersise3\obj\Debug\Excersise3.pdb
+D:\Exercise3\Excersise3\bin\Debug\Excersise3.exe.config
+D:\Exercise3\Excersise3\bin\Debug\Excersise3.exe
+D:\Exercise3\Excersise3\bin\Debug\Excersise3.pdb
+D:\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+D:\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+D:\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+D:\Exercise3\Excersise3\obj\Debug\Excersise3.exe
+D:\Exercise3\Excersise3\obj\Debug\Excersise3.pdb
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\obj\Debug\Excersise3.Google.resources
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\obj\Debug\Excersise3.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Exercise3\Excersise3\obj\Debug\Excersise3.Properties.Resources.resources
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\bin\Debug\Excersise3.exe.config
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\bin\Debug\Excersise3.exe
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\bin\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.Properties.Resources.resources
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.csproj.GenerateResource.cache
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.exe
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.Admin.resources
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.User.resources
+C:\Users\dtptr\Downloads\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.Start.resources
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\bin\Debug\Excersise3.exe.config
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\bin\Debug\Excersise3.exe
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\bin\Debug\Excersise3.pdb
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.Admin.resources
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.Start.resources
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.User.resources
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.Properties.Resources.resources
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.csproj.GenerateResource.cache
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.exe
+C:\Users\Administrator\Videos\Exercise3 (4)\Excersise3\obj\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\bin\Debug\Excersise3.exe.config
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\bin\Debug\Excersise3.exe
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\bin\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.Admin.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.Start.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.User.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.Properties.Resources.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.csproj.GenerateResource.cache
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.exe
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.Login.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\bin\Debug\Excersise3.exe.config
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\bin\Debug\Excersise3.exe
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\bin\Debug\Excersise3.pdb
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.Admin.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.Login.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.Start.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.User.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.Properties.Resources.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.csproj.GenerateResource.cache
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.exe
+C:\Users\Administrator\Videos\Exercise3 (4) (2)\Excersise3\obj\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\bin\Debug\Excersise3.exe.config
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\bin\Debug\Excersise3.exe
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\bin\Debug\Excersise3.pdb
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.Admin.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.Login.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.Start.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.User.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.Properties.Resources.resources
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.csproj.GenerateResource.cache
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.exe
+C:\Users\dtptr\Downloads\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.pdb
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\bin\Debug\Excersise3.exe.config
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\bin\Debug\Excersise3.exe
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\bin\Debug\Excersise3.pdb
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.csproj.AssemblyReference.cache
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.Admin.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.Login.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.Start.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.User.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.Properties.Resources.resources
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.csproj.GenerateResource.cache
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.exe
+C:\Users\Administrator\Videos\Exercise3 (4) (2) (2)\Excersise3\obj\Debug\Excersise3.pdb
