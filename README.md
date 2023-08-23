@@ -1,4 +1,4 @@
-Đồ Án Môn Cấu Trúc Dữ Liệu
+Đồ Án Môn Cấu Trúc Dữ Liệu & Giải Thuật
 # English-Vietnamese-Dictionary
 -Được thực hiện bởi:
 
