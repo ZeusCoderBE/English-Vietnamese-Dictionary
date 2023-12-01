@@ -14,7 +14,7 @@ Data Structures & Algorithms Subject Project
 -Technology used
 
 
-+Windows model
++Windows form
 
 
 
