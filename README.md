@@ -1,22 +1,22 @@
-Đồ Án Môn Cấu Trúc Dữ Liệu & Giải Thuật
-# English-Vietnamese-Dictionary
--Được thực hiện bởi:
+Data Structures & Algorithms Subject Project
+#English-Vietnamese Dictionary
+- Made by:
 
 
-+Đái Triệu Phi
++ Dai Trieu Phi
 
 
-+Đặng Nguyễn Quang Huy
++Dang Nguyen Quang Huy
 
 
--Công nghệ sử dụng
+-Technology used
 
 
-+WindowsForm
++Windows model
 
 
 
-+Hashtable
++C#
 
 
 -Màn hình chính :
