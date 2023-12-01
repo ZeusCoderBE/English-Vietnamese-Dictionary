@@ -10,6 +10,10 @@
 - Windows Form
 - C#
 
+## Data Structure:
+
+- Hashtable
+
 ## Screenshots:
 
 ### Main Screen:
@@ -20,6 +24,7 @@
 
 ## Description:
 
-The English-Vietnamese Dictionary project, developed as part of the Data Structures & Algorithms course, is a Windows Form application implemented in C#. The primary goal of the project is to provide an intuitive and efficient English-Vietnamese dictionary with features demonstrated in the screenshots above.
+The English-Vietnamese Dictionary project, developed as part of the Data Structures & Algorithms course, is a Windows Form application implemented in C#. The primary goal of the project is to provide an intuitive and efficient English-Vietnamese dictionary.
 
-Feel free to expand on this description by highlighting specific functionalities, algorithms, or data structures used in your project.
+The dictionary utilizes a hashtable data structure to efficiently manage and retrieve word translations. This choice of data structure enhances the speed and performance of the dictionary, ensuring a seamless user experience.
+
