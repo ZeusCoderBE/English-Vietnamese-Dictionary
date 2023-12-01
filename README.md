@@ -1,9 +1,9 @@
 Data Structures & Algorithms Subject Project
 #English-Vietnamese Dictionary
-- Made by:
+-Made by:
 
 
-+ Dai Trieu Phi
++Dai Trieu Phi
 
 
 +Dang Nguyen Quang Huy
